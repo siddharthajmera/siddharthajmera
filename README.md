@@ -34,7 +34,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,POWER BI,snowflake,matillion,N8N,mysql,GenAI & Agentic AI,excel,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,mysql,snowflake,excel,vscode&perline=5" />
+**Other Tools & Technologies:**  
+Power BI, Matillion, n8n, GenAI, Agentic AI
+
 
 </div>
 
