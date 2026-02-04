@@ -1,294 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Siddharth Ajmera | Portfolio</title>
+# <div align="center">Hi 👋, I'm Siddharth Ajmera</div>
 
-<!-- Google Font -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<div align="center">
 
-<!-- ScrollReveal -->
-<script src="https://unpkg.com/scrollreveal"></script>
+🚀 **Software Developer** | 💻 **Tech Enthusiast** | 🧠 **Problem Solver**
 
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+Love+Building+Cool+Projects;Open+Source+Contributor;Always+Learning+New+Tech" />
 
-body {
-  font-family: 'Poppins', sans-serif;
-  background: #020617;
-  color: #e5e7eb;
-}
+</div>
 
-/* NAVBAR */
-nav {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  padding: 15px 10%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: rgba(2,6,23,0.85);
-  backdrop-filter: blur(8px);
-  z-index: 1000;
-}
+---
 
-nav h1 {
-  color: #38bdf8;
-  font-size: 1.4rem;
-}
+## 🙋‍♂️ About Me
 
-nav a {
-  color: #e5e7eb;
-  margin-left: 20px;
-  text-decoration: none;
-  font-weight: 500;
-}
+✔️ Passionate about building scalable software
+✔️ Love solving real-world problems
+✔️ Constantly learning new technologies
+✔️ Open to collaboration
 
-nav a:hover {
-  color: #38bdf8;
-}
+---
 
-/* HERO */
-header {
-  min-height: 100vh;
-  padding-top: 120px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
+## 🚀 Tech Stack
 
-header h2 {
-  font-size: 3rem;
-}
+<div align="center">
 
-header span {
-  color: #38bdf8;
-}
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,mysql,vscode" />
 
-.typing {
-  margin-top: 15px;
-  font-size: 1.4rem;
-  color: #94a3b8;
-}
+</div>
 
-.btn {
-  margin-top: 35px;
-  padding: 14px 32px;
-  background: #38bdf8;
-  color: #020617;
-  text-decoration: none;
-  border-radius: 30px;
-  font-weight: 600;
-  transition: 0.3s;
-}
+---
 
-.btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 20px #38bdf8;
-}
+## 📊 GitHub Stats
 
-/* SCROLL INDICATOR */
-.scroll {
-  margin-top: 50px;
-  font-size: 1.2rem;
-  opacity: 0.7;
-  animation: bounce 1.5s infinite;
-}
+<div align="center">
 
-@keyframes bounce {
-  0%,100% { transform: translateY(0); }
-  50% { transform: translateY(12px); }
-}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthajmera&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-/* SECTIONS */
-section {
-  min-height: 100vh;
-  padding: 120px 10%;
-  border-top: 1px solid rgba(255,255,255,0.06);
-}
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthajmera&theme=tokyonight&hide_border=true"/>
 
-h3 {
-  font-size: 2.2rem;
-  color: #38bdf8;
-  margin-bottom: 30px;
-}
+</div>
 
-/* ABOUT */
-.about p {
-  max-width: 750px;
-  line-height: 1.8;
-  color: #cbd5f5;
-}
+---
 
-/* SKILLS */
-.skills span {
-  display: inline-block;
-  background: #0f172a;
-  padding: 12px 18px;
-  margin: 8px;
-  border-radius: 20px;
-  transition: 0.3s;
-}
+## 🔥 Most Used Languages
 
-.skills span:hover {
-  background: #38bdf8;
-  color: #020617;
-  transform: scale(1.1);
-}
+<div align="center">
 
-/* PROJECTS */
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
-  gap: 25px;
-}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthajmera&layout=compact&theme=tokyonight&hide_border=true"/>
 
-.card {
-  background: #020617;
-  border-radius: 18px;
-  padding: 25px;
-  transition: 0.4s;
-}
+</div>
 
-.card:hover {
-  transform: translateY(-15px);
-  box-shadow: 0 0 25px #38bdf8;
-}
+---
 
-/* FOOTER */
-footer {
-  text-align: center;
-  padding: 30px;
-  background: #020617;
-  color: #94a3b8;
-}
+## 🏆 GitHub Achievements
 
-/* MOBILE */
-@media(max-width:768px){
-  nav {
-    padding: 15px 6%;
-  }
-  header h2 {
-    font-size: 2.2rem;
-  }
-  section {
-    padding: 100px 6%;
-  }
-}
-</style>
-</head>
+<div align="center">
 
-<body>
+<img src="https://github-profile-trophy.vercel.app/?username=siddharthajmera&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-<!-- NAV -->
-<nav>
-  <h1>Siddharth</h1>
-  <div>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </div>
-</nav>
+</div>
 
-<!-- HERO -->
-<header id="home">
-  <h2>Hi 👋 I'm <span>Siddharth Ajmera</span></h2>
-  <div class="typing" id="typing"></div>
-  <a href="#projects" class="btn">🚀 View My Work</a>
-  <div class="scroll">⬇ Scroll Down</div>
-</header>
+---
 
-<!-- ABOUT -->
-<section id="about" class="about">
-  <h3>🙋‍♂️ About Me</h3>
-  <p>
-    I am a passionate developer who enjoys building clean, scalable, and
-    impactful software. I love learning new technologies and solving real-world
-    problems through code.
-  </p>
-</section>
+## 🌐 Connect With Me
 
-<!-- SKILLS -->
-<section id="skills">
-  <h3>🧠 Skills</h3>
-  <div class="skills">
-    <span>HTML</span>
-    <span>CSS</span>
-    <span>JavaScript</span>
-    <span>Python</span>
-    <span>Java</span>
-    <span>Git & GitHub</span>
-  </div>
-</section>
+<div align="center">
 
-<!-- PROJECTS -->
-<section id="projects">
-  <h3>🛠 Projects</h3>
-  <div class="projects">
+<a href="https://github.com/siddharthajmera">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-    <div class="card">
-      <h4>🔥 Portfolio Website</h4>
-      <p>Animated portfolio built using HTML, CSS, and JavaScript.</p>
-      <a href="https://github.com/siddharthajmera" target="_blank">GitHub ↗</a>
-    </div>
+</div>
 
-    <div class="card">
-      <h4>📊 Data Analysis</h4>
-      <p>Real-world data analysis using Python and visualization.</p>
-      <a href="https://github.com/siddharthajmera" target="_blank">GitHub ↗</a>
-    </div>
+---
 
-    <div class="card">
-      <h4>⚙️ Backend System</h4>
-      <p>Scalable backend with APIs and authentication.</p>
-      <a href="https://github.com/siddharthajmera" target="_blank">GitHub ↗</a>
-    </div>
+<div align="center">
 
-  </div>
-</section>
+### ⭐️ *“Code. Learn. Build. Repeat.”* ⭐️
 
-<!-- CONTACT -->
-<section id="contact">
-  <h3>📬 Contact</h3>
-  <p>Let’s connect and build something amazing.</p><br>
-  <a class="btn" href="https://github.com/siddharthajmera" target="_blank">
-    🐙 GitHub Profile
-  </a>
-</section>
-
-<footer>
-  © 2026 Siddharth Ajmera | Built with ❤️ on GitHub Pages
-</footer>
-
-<!-- JS -->
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-new Typed("#typing", {
-  strings: [
-    "💻 Software Developer",
-    "🚀 Open Source Enthusiast",
-    "🧠 Problem Solver"
-  ],
-  typeSpeed: 60,
-  backSpeed: 40,
-  loop: true
-});
-
-ScrollReveal().reveal('header', { delay: 200 });
-ScrollReveal().reveal('section', { delay: 200, distance: '40px', origin: 'bottom' });
-ScrollReveal().reveal('.card', { interval: 200 });
-</script>
-
-</body>
-</html>
+</div>
