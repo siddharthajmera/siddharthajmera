@@ -12,10 +12,21 @@
 
 ## 🙋 About Me
 
-✔ Passionate about building scalable software
-✔ Strong interest in real-world problem solving
-✔ Continuously learning new technologies
-✔ Love clean and efficient code
+💼 Data Analyst at Raniwala Jewellers Pvt. Ltd.
+
+🐍 Skilled in Python, SQL, Power BI, and Excel
+
+❄️ Experience with Snowflake & 🔄 Matillion for ETL and data warehousing
+
+🤖 Building GenAI & Agentic AI workflows for analytics and automation
+
+🧩 Strong interest in real-world problem solving
+
+📚 Continuously learning new technologies
+
+✨ Love writing clean, efficient, and scalable code
+
+📊 Focused on end-to-end data solutions and actionable business insights
 
 ---
 
