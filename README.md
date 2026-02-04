@@ -30,30 +30,55 @@
 
 ---
 
+
+</div>
+
+---
+
 ## 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,snowflake,excel,vscode&perline=5" />
-**Other Tools & Technologies:**  
-Power BI, Matillion, n8n, GenAI, Agentic AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
+</p>
+
+### 🧑‍💻 Languages & Databases
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (Joins, Windowfunction, Subqueries)
+
+### 📊 BI & ETL Tools
+- **Power BI** (DAX, Data Modeling)
+- **Looker Studio**
+- **Matillion**
+- **Excel** (Advanced Formulas, Pivot Tables, Power Query, Macros)
+
+### 🔧 Other Technologies
+- GenAI, Agentic AI  
+- N8N  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     alt="Data Analytics Animation"
+     width="100%" />
+
+</td>
+</tr>
+</table>
 
 
-</div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddharthajmera&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthajmera&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 Contribution Graph
 
