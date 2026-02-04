@@ -3,6 +3,7 @@
 # 👋 Siddharth Ajmera
 
 ### 🚀 Data Analyst | GenAI & Agentic AI 🤖 | Python 🐍 | SQL 💹 | Power BI 📊 | Excel 📈 | Snowflake ❄️ | Matillion 🔄 | 💻 Tech Enthusiast | 🧠 Problem Solver
+📍 Jaipur, Rajasthan · [LinkedIn](www.linkedin.com/in/siddharth-ajmera-3424001a3/) · ✉️ siddharthajmera48@gmail.com
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+useful+things;Always+learning+new+technology" />
 
